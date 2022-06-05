@@ -80,7 +80,7 @@ Perform the following tasks:
 
 3. Create a new DataFrame named `clustered_df`, that includes the following columns `"Algorithm", "ProofType", "TotalCoinsMined", "TotalCoinSupply", "PC 1", "PC 2", "PC 3", "CoinName", "Class"`. You should maintain the index of the `crypto_df` DataFrames as is shown bellow.
 
-    ![clustered_df](Images/clustered_df.png)
+
 
 #### Visualizing Results
 
